@@ -1,0 +1,13 @@
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.csprojAssemblyReference.cache
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.AssemblyInfoInputs.cache
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.AssemblyInfo.cs
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\bin\Debug\netcoreapp3.1\Aula 08- Abstração.exe
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\bin\Debug\netcoreapp3.1\Aula 08- Abstração.deps.json
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\bin\Debug\netcoreapp3.1\Aula 08- Abstração.runtimeconfig.json
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\bin\Debug\netcoreapp3.1\Aula 08- Abstração.runtimeconfig.dev.json
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\bin\Debug\netcoreapp3.1\Aula 08- Abstração.dll
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\bin\Debug\netcoreapp3.1\Aula 08- Abstração.pdb
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.dll
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.pdb
+C:\Users\Ediram\Desktop\SENAI\Aula 08- Abstração\obj\Debug\netcoreapp3.1\Aula 08- Abstração.genruntimeconfig.cache
